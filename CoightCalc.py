@@ -22,7 +22,7 @@ st.set_page_config(
 
 st.markdown("<h1 style='text-align: center;'>Russell Coight's Water Calculator</h1>", unsafe_allow_html=True)
 
-st.image('background2.jpg', use_column_width="always")
+st.image('https://awol.com.au/wp-content/uploads/2020/03/russell-coight-all-aussie-adventures-1024x640.jpg', use_column_width="always")
 
 st.markdown("""
 > “I never go into the outback without a decent supply of water, and the general rule for how much you'll need is three litres per day, per person, per man, per degree over 25 degrees celcius, per kilometre if walking on foot, in the winter months dividing it by two, plus... another litre... at the end.”
